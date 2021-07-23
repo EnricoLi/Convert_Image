@@ -25,7 +25,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/>
+$ git clone <https://github.com/EnricoLi/Convert_Image>
 
 # Abra o arquivo .py
 $ convertimage.py
