@@ -1,8 +1,5 @@
 <h1 align="center">Convert Image</h1>
 
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
-</h1>
 <p align="center">🚀 Projeto simples com Python, Tkinter e com o módulo Pillow para aplicar um filtro preto em branco em uma imagem.</p>
 
 <p align="center">
@@ -15,7 +12,7 @@
 </p>
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  Convert Image 🚀 Em construção...  🚧
 </h4>
 
 ### Pré-requisitos
